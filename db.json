@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "completed": false,
+      "id": 1
+    },
+    {
+      "completed": true,
+      "id": 2
+    }
+  ]
+}
